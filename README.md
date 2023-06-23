@@ -54,7 +54,7 @@ Bem ... você conseguiu!
 
 * Você receberá um conjunto de dados de enquete chamado [dados_eleicao.txt](PyVotacao/Recursos/dados_eleicao.txt). O conjunto de dados é composto por três colunas: `ID do eleitor`,` Município` e `Candidato`. Sua tarefa é criar um script Python que analise os votos e calcule cada uma das seguintes informações:
 
-  * O número total de votos expressos
+  * O número total de votos impressos
 
   * Uma lista completa de candidatos que receberam votos
 
